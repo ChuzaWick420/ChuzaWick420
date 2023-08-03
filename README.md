@@ -9,6 +9,10 @@ You can check it out from [here](https://github.com/ChuzaWick420/2D-Platformer-G
 
 ### Languages
 ![Languages_Card](https://github-readme-stats.vercel.app/api/top-langs?username=ChuzaWick420&bg_color=60,001a33,990000&text_color=00b3b3&title_color=ff1a1a&border_radius=15&layout=donut)
+<hr>
+
+### Time Spent
+![WakaTime_Card](https://github-readme-stats.vercel.app/api/wakatime?username=ChuzaWick420&bg_color=60,001a33,990000&text_color=00b3b3&title_color=ff1a1a&border_radius=15&hide_progress=true&layout=compact)
 <!--
 **ChuzaWick420/ChuzaWick420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
