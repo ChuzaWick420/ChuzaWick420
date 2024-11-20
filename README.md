@@ -24,6 +24,10 @@ Hi, I am ChuzaWick420, a passionate Computer Science student with some Maths add
     <a href="https://www.artstation.com/chuzawick420" target="_blank">
         <img src="https://www.artstation.com/assets/about/logo/logo-artstation-vertical-ec60efc77a6d4b7aa4b177d65b5726766b4e6ad194c90bbb588ecb65e481dd01.png" height=32px />
     </a>
+    <!--CurseForge-->
+    <a href="https://www.curseforge.com/members/chuzawick420/projects" target="_blank">
+        <img src="./assets/curseforge.png" height=32px />
+    </a>
 
 </div>
 
