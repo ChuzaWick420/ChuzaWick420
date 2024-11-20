@@ -1,7 +1,18 @@
 # About me
-Hi, I am ChuzaWick420, a passionate Computer Science student with some Mafs addictions :p
+Hi, I am ChuzaWick420, a passionate Computer Science student with some Maths addictions :p
 
-![Stats_Card](https://github-readme-stats.vercel.app/api?username=ChuzaWick420&show_icons=true&rank_icon=github&title_color=ff1a1a&ring_color=0086b3&bg_color=60,001a33,990000&text_color=00b3b3&border_radius=15&card_width=500)
+## Socials
+<div style="
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+">
+    <!--Itch.io-->
+    <a href="https://chuzawick420.itch.io/" target="_blank">
+        <img src="https://static.itch.io/images/itchio-textless-white.svg" height=32px />
+    </a>
+
+</div>
 
 ## Languages
 Here are the most used languages in my projects  
