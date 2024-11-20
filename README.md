@@ -16,6 +16,10 @@ Hi, I am ChuzaWick420, a passionate Computer Science student with some Maths add
     <a href="https://www.shadertoy.com/profile/?show=shaders" target="_blank">
         <img src="./assets/shadertoy.png" height=32px />
     </a>
+    <!--NexusMods-->
+    <a href="https://next.nexusmods.com/profile/ChuzaWick420" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/tr/c/c2/NexusMods.png" height=32px />
+    </a>
 
 </div>
 
