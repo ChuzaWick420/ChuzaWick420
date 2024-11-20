@@ -4,12 +4,17 @@ Hi, I am ChuzaWick420, a passionate Computer Science student with some Maths add
 ## Socials
 <div style="
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    gap: 16px;
 ">
     <!--Itch.io-->
     <a href="https://chuzawick420.itch.io/" target="_blank">
-        <img src="https://static.itch.io/images/itchio-textless-white.svg" height=32px />
+        <img src="https://static.itch.io/images/itchio-textless-white.svg" height=32px></img>
+    </a>
+    <!--ShaderToy-->
+    <a href="https://www.shadertoy.com/profile/?show=shaders" target="_blank">
+        <img src="./assets/shadertoy.png" height=32px />
     </a>
 
 </div>
