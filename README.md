@@ -28,6 +28,10 @@ Hi, I am ChuzaWick420, a passionate Computer Science student with some Maths add
     <a href="https://www.curseforge.com/members/chuzawick420/projects" target="_blank">
         <img src="./assets/curseforge.png" height=32px />
     </a>
+    <!--Modrinth-->
+    <a href="https://modrinth.com/user/ChuzaWick420" target="_blank">
+        <img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a49f8e1b-3835-4ea1-a85b-118c6425ebc3/Modrinth_Dark_Logo.png" height=32px />
+    </a>
 
 </div>
 
