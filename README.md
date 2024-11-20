@@ -20,6 +20,10 @@ Hi, I am ChuzaWick420, a passionate Computer Science student with some Maths add
     <a href="https://next.nexusmods.com/profile/ChuzaWick420" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/tr/c/c2/NexusMods.png" height=32px />
     </a>
+    <!--Artstation-->
+    <a href="https://www.artstation.com/chuzawick420" target="_blank">
+        <img src="https://www.artstation.com/assets/about/logo/logo-artstation-vertical-ec60efc77a6d4b7aa4b177d65b5726766b4e6ad194c90bbb588ecb65e481dd01.png" height=32px />
+    </a>
 
 </div>
 
