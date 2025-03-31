@@ -34,7 +34,7 @@ Hi, I am ChuzaWick420, a passionate Computer Science student with some Maths add
     </a>
     <!--ShaderLabs-->
     <a href="https://shaderlabs.org/wiki/User:492543441826349066" target="_blank">
-        <img src="https://shaderlabs.org/mw/images/logos/logo-1x.png" height=32px />
+        <img src="https://avatars.githubusercontent.com/u/69537237" height=32px />
     </a>
     <!--Gitlab-->
     <a href="https://gitlab.com/ChuzaWick420" target="_blank">
