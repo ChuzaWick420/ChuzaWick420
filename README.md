@@ -1,5 +1,5 @@
 # About me
-Hi, I am ChuzaWick420, a passionate Computer Science student with some Maths addictions :p
+Hi, I am ChuzaWick420, a passionate Computer Science student with some Math addictions :p
 
 ## Socials
 <div style="
@@ -13,7 +13,7 @@ Hi, I am ChuzaWick420, a passionate Computer Science student with some Maths add
         <img src="https://static.itch.io/images/itchio-textless-white.svg" height=32px></img>
     </a>
     <!--ShaderToy-->
-    <a href="https://www.shadertoy.com/profile/?show=shaders" target="_blank">
+    <a href="https://www.shadertoy.com/profile/ChuzaWick420?show=shaders" target="_blank">
         <img src="./assets/shadertoy.png" height=32px />
     </a>
     <!--NexusMods-->
@@ -44,7 +44,6 @@ Hi, I am ChuzaWick420, a passionate Computer Science student with some Maths add
 </div>
 
 ## Languages
-Here are the most used languages in my projects  
 ![Languages_Card](https://github-readme-stats.vercel.app/api/top-langs?username=ChuzaWick420&bg_color=60,001a33,990000&text_color=00b3b3&title_color=ff1a1a&border_radius=15&layout=donut)
 
 ## Time Spent
