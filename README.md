@@ -1,13 +1,12 @@
 # About me
-Hi, I am ChuzaWick420, a passionate Computer Science student with some Math addictions :p
+
+<div align="center">
+    <p>Hi, I am ChuzaWick420, a passionate Computer Science student with some Math addictions :p</p>
+    <img align="center" src="https://komarev.com/ghpvc/?username=ChuzaWick420&color=fe1155" />
+</div>
 
 ## Socials
-<div style="
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    gap: 16px;
-">
+<div align="center">
     <!--Itch.io-->
     <a href="https://chuzawick420.itch.io/" target="_blank">
         <img src="https://static.itch.io/images/itchio-textless-white.svg" height=32px></img>
