@@ -7,6 +7,14 @@
 
 ## Socials
 
+|Type|Platform|
+|---|---|
+|Dev||
+|Art||
+|Game||
+|Nerding out||
+|Others||
+
 
 ### Dev
 
@@ -27,6 +35,10 @@
     <!--Artstation-->
     <a href="https://www.artstation.com/chuzawick420" target="_blank">
         <img src="https://www.artstation.com/assets/about/logo/logo-artstation-vertical-ec60efc77a6d4b7aa4b177d65b5726766b4e6ad194c90bbb588ecb65e481dd01.png" height=32px />
+    </a>
+    <!--Pininterest-->
+    <a href="https://www.pinterest.com/ChuzaWick420/" target="_blank">
+        <img src="./assets/pininterest.jpg" height=32px />
     </a>
 </div>
 
@@ -67,8 +79,17 @@
 ### Others
 
 <div align="center">
+    <!--Instagram-->
+    <a href="https://www.instagram.com/chuzawick420/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" height=32px />
+    </a>
+    <!--FaceBook-->
+    <a href="https://www.facebook.com/profile.php?id=100087807815637" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" height=32px />
+    </a>
 </div>
 
+### Freelance
 
 ## Languages
 ![Languages_Card](https://github-readme-stats.vercel.app/api/top-langs?username=ChuzaWick420&bg_color=60,001a33,990000&text_color=00b3b3&title_color=ff1a1a&border_radius=15&layout=donut)
