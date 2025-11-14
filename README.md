@@ -1,7 +1,7 @@
 # About me
 
 <div align="center">
-    <p>Hi, I am ChuzaWick420, a passionate Computer Science student with some Math addictions :p</p>
+    <p>Hi, I am ChuzaWick420, a passionate Computer Science student with some Math addictions :P</p>
     <img align="center" src="https://komarev.com/ghpvc/?username=ChuzaWick420&color=fe1155" />
 </div>
 
@@ -20,8 +20,10 @@
 [|Freelance|<div align="center"><!--Upwork--><a href="https://www.upwork.com/freelancers/~01a7060161501ee0c0" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Upwork_Logo.svg/1920px-Upwork_Logo.svg.png" height=32px/></a><!--Fivver--><a href="https://www.fiverr.com/chuzawick420/buying" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/1920px-Fiverr_Logo_09.2020.svg.png" height=32px/></a></div>|]: #
 
 
-## Languages
-![Languages_Card](https://github-readme-stats.vercel.app/api/top-langs?username=ChuzaWick420&bg_color=60,001a33,990000&text_color=00b3b3&title_color=ff1a1a&border_radius=15&layout=donut)
+[## Languages]: #
+[used languages card goes here - https://github-readme-stats.vercel.app/api/top-langs?username=ChuzaWick420&bg_color=60,001a33,990000&text_color=00b3b3&title_color=ff1a1a&border_radius=15&layout=donut]: #
 
-## Time Spent
-![WakaTime_Card](https://github-readme-stats.vercel.app/api/wakatime?username=ChuzaWick420&bg_color=60,001a33,990000&text_color=00b3b3&title_color=ff1a1a&border_radius=15&hide_progress=true&layout=compact)
+## Languages Used
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChuzaWick420&bg_color=60,001a33,990000&text_color=00b3b3&title_color=ff1a1a&border_radius=15&hide_progress=true&layout=compact" />
+</div>
