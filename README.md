@@ -7,11 +7,61 @@
 
 ## Socials
 
-|Type|Platform|
-|---|---|
-|Dev|<div align="center"><!--Gitlab--><a href="https://gitlab.com/ChuzaWick420" target="_blank"><img src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png" height=32px /></a><!--Linked in--><a href="https://www.linkedin.com/in/chuzawick420/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height=32px /></a></div>|
-|Art|<div align="center"><!--Artstation--><a href="https://www.artstation.com/chuzawick420" target="_blank"><img src="https://www.artstation.com/assets/about/logo/logo-artstation-vertical-ec60efc77a6d4b7aa4b177d65b5726766b4e6ad194c90bbb588ecb65e481dd01.png" height=32px /></a><!--Pininterest--><a href="https://www.pinterest.com/ChuzaWick420/" target="_blank"><img src="./assets/pininterest.jpg" height=32px /></a></div>|
-|Others|<div align="center"><!--Instagram--><a href="https://www.instagram.com/chuzawick420/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" height=32px /></a><!--FaceBook--><a href="https://www.facebook.com/profile.php?id=100087807815637" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" height=32px /></a></div>|
+<table style="
+    display: flex;
+    justify-content: center;
+">
+    <tr>
+        <th>Type</th>
+        <th>Platform</th>
+    </tr>
+    <tr>
+        <td>Dev</td>
+        <td>
+            <div align="center">
+                <!--Gitlab-->
+                <a href="https://gitlab.com/ChuzaWick420" target="_blank">
+                    <img src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png" height=32px />
+                </a>
+                <!--Linked in-->
+                <a href="https://www.linkedin.com/in/chuzawick420/" target="_blank">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height=32px />
+                </a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>Art</td>
+        <td>
+            <div align="center">
+                <!--Artstation-->
+                <a href="https://www.artstation.com/chuzawick420" target="_blank">
+                    <img src="https://www.artstation.com/assets/about/logo/logo-artstation-vertical-ec60efc77a6d4b7aa4b177d65b5726766b4e6ad194c90bbb588ecb65e481dd01.png" height=32px />
+                </a>
+                <!--Pininterest-->
+                <a href="https://www.pinterest.com/ChuzaWick420/" target="_blank">
+                    <img src="./assets/pininterest.jpg" height=32px />
+                </a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>Others</td>
+        <td>
+            <div align="center">
+                <!--Instagram-->
+                <a href="https://www.instagram.com/chuzawick420/" target="_blank">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" height=32px />
+                </a>
+                <!--FaceBook-->
+                <a href="https://www.facebook.com/profile.php?id=100087807815637" target="_blank">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" height=32px />
+                </a>
+            </div>
+        </td>
+    </tr>
+</table>
+
 
 [|Game|<div align="center"><!--Itch.io--><a href="https://chuzawick420.itch.io/" target="_blank"><img src="https://static.itch.io/images/itchio-textless-white.svg" height=32px></img></a><!--Steam--><a href="https://steamcommunity.com/id/ChuzaWick420/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1200px-Steam_icon_logo.svg.png" height=32px/></a></div>|]: #
 
