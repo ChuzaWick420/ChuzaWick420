@@ -41,13 +41,6 @@
 
 ## Projects
 
-### Ray Tracing
-- Developed a multi-threaded ray tracing renderer in C++ that distributes pixel computation across a configurable number of threads, boosting image generation by approximately 400% and shows the result on a SFML window.
-- Built a JSON-driven configuration system covering four parameter groups — scene objects (size, color, material, position), camera (position, orientation, focal length), image output (dimensions, samples per pixel), and thread count — so scenes can be re-rendered without touching code.
-<a href="https://github.com/ChuzaWick420/rayTracing" target="_blank">
-    <img src="https://raw.githubusercontent.com/ChuzaWick420/rayTracing/refs/heads/master/imgs/img_1.png">
-</a>
-
 ### Notes Publisher
 - Architected an automated personal knowledge-base pipeline that converts Markdown notes written in Obsidian into a published website using MkDocs, Python, and LaTeX.
 - Configured a GitHub Actions workflow to automatically build and deploy the site to GitHub Pages on every push, eliminating manual deployment steps.
@@ -62,6 +55,13 @@
 - Implemented time-slicing for input handling and event handling to keep the UI responsive during gameplay.
 <a href="https://github.com/ChuzaWick420/FYP_AI_Based_Puzzle_Game" target="_blank">
     <img src="assets/FYP.png">
+</a>
+
+### Ray Tracing
+- Developed a multi-threaded ray tracing renderer in C++ that distributes pixel computation across a configurable number of threads, boosting image generation by approximately 400% and shows the result on a SFML window.
+- Built a JSON-driven configuration system covering four parameter groups — scene objects (size, color, material, position), camera (position, orientation, focal length), image output (dimensions, samples per pixel), and thread count — so scenes can be re-rendered without touching code.
+<a href="https://github.com/ChuzaWick420/rayTracing" target="_blank">
+    <img src="https://raw.githubusercontent.com/ChuzaWick420/rayTracing/refs/heads/master/imgs/img_1.png">
 </a>
 
 
