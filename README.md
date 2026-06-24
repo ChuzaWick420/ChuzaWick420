@@ -1,9 +1,28 @@
 # About me
 
 <div align="center">
-    <p>Hi, I am ChuzaWick420, a passionate Computer Science student with some Math addictions :P</p>
+    <p>Computer Science student with experience building software projects in <code>Python</code> and <code>C++</code>, including web publishing automation, game development, and multithreaded graphics programming. Strong foundation in software processes, architecture, design patterns, documentation, algorithms, data structures, version control and mathematics.</p>
     <img align="center" src="https://komarev.com/ghpvc/?username=ChuzaWick420&color=fe1155" />
 </div>
+
+## Skills
+
+### Languages
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width=64px />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" width=64px />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" width=64px />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png" width=64px />
+<img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" width=64px />
+<img src="https://avatars.githubusercontent.com/u/67595261?v=4" width=64px />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/250px-SFML_Logo.svg.png" width=64px />
+<img src="https://user-images.githubusercontent.com/65417594/131365679-e3634a67-4054-4b66-a8f3-4f48533b424a.png" height=64px />
+
+### Tools
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1280px-Neovim-mark.svg.png" width=64px />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png" width=64px />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1280px-Git_icon.svg.png" width=64px />
+
+## Projects
 
 ## Socials
 
@@ -51,7 +70,7 @@
             <div align="center">
                 <!--Instagram-->
                 <a href="https://www.instagram.com/chuzawick420/" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" height=32px />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height=32px />
                 </a>
                 <!--FaceBook-->
                 <a href="https://www.facebook.com/profile.php?id=100087807815637" target="_blank">
