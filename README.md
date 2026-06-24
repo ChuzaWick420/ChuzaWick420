@@ -8,21 +8,96 @@
 ## Skills
 
 ### Languages
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width=64px />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" width=64px />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" width=64px />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png" width=64px />
-<img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" width=64px />
-<img src="https://avatars.githubusercontent.com/u/67595261?v=4" width=64px />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/250px-SFML_Logo.svg.png" width=64px />
-<img src="https://user-images.githubusercontent.com/65417594/131365679-e3634a67-4054-4b66-a8f3-4f48533b424a.png" height=64px />
+
+<div align="center">
+    <!--C-->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width=64px />
+    <!--C++-->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" width=64px />
+    <!--Python-->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" width=64px />
+    <!--JavaScript-->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png" width=64px />
+    <!--LaTeX-->
+    <img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" width=64px />
+    <!--Typst-->
+    <img src="https://avatars.githubusercontent.com/u/67595261?v=4" width=64px />
+    <!--SFML-->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/250px-SFML_Logo.svg.png" width=64px />
+    <!--Pygame-->
+    <img src="https://user-images.githubusercontent.com/65417594/131365679-e3634a67-4054-4b66-a8f3-4f48533b424a.png" height=64px />
+</div>
 
 ### Tools
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1280px-Neovim-mark.svg.png" width=64px />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png" width=64px />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1280px-Git_icon.svg.png" width=64px />
+
+<div align="center">
+    <!--Nvim-->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1280px-Neovim-mark.svg.png" width=64px />
+    <!--Obsidian-->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png" width=64px />
+    <!--Git-->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1280px-Git_icon.svg.png" width=64px />
+</div>
 
 ## Projects
+
+<div>
+    <div class="Project_container">
+        <div class="Card_holder">
+            <h3>Ray Tracing</h3>
+            <ul>
+                <li>Developed a multi-threaded ray tracing renderer in C++ that distributes pixel computation across a configurable number of threads, boosting image generation by approximately 400% and shows the result on a SFML window.</li>
+                <li>Built a JSON-driven configuration system covering four parameter groups — scene objects (size, color, material, position), camera (position, orientation, focal length), image output (dimensions, samples per pixel), and thread count — so scenes can be re-rendered without touching code.</li>
+            </ul>
+        </div>
+        <div class="line"></div>
+        <div class="Card_holder">
+            <div class="Project_card">
+                <a href="https://github.com/ChuzaWick420/rayTracing" target="_blank">
+                    <img src="https://raw.githubusercontent.com/ChuzaWick420/rayTracing/refs/heads/master/imgs/img_1.png">
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="Project_separator"></div>
+    <div class="Project_container">
+        <div class="Card_holder">
+            <div class="Project_card">
+                <a href="https://github.com/ChuzaWick420/notes_publisher" target="_blank">
+                    <img src="assets/notes_publisher.png">
+                </a>
+            </div>
+        </div>
+        <div class="line"></div>
+        <div class="Card_holder">
+            <h3>Notes Publisher</h3>
+            <ul>
+                <li>Architected an automated personal knowledge-base pipeline that converts Markdown notes written in Obsidian into a published website using MkDocs, Python, and LaTeX.</li>
+                <li>Configured a GitHub Actions workflow to automatically build and deploy the site to GitHub Pages on every push, eliminating manual deployment steps.</li>
+                <li>Designed an automated backup workflow using Google Drive, GitHub, and GitLab to provide redundant storage and reduce risk of data loss from hardware or power failures.</li>
+            </ul>
+        </div>
+    </div>
+    <div class="Project_separator"></div>
+    <div class="Project_container">
+        <div class="Card_holder">
+            <h3>Memory Maze</h3>
+            <ul>
+                <li> Designed and built a puzzle game engine in Python using a layered architecture, applying the Observer and Strategy design patterns to decouple game logic from the UI (made with Pygame) and persistent data.</li>
+                <li>Built a JSON and SQLite-backed persistence layer to store game state and user data.</li>
+                <li>Implemented time-slicing for input handling and event handling to keep the UI responsive during gameplay.</li>
+            </ul>
+        </div>
+        <div class="line"></div>
+        <div class="Card_holder">
+            <div class="Project_card">
+                <a href="https://github.com/ChuzaWick420/FYP_AI_Based_Puzzle_Game" target="_blank">
+                    <img src="assets/FYP.png">
+                </a>
+            </div>
+        </div>
+    </div>
+<div>
 
 ## Socials
 
@@ -96,3 +171,39 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChuzaWick420&bg_color=60,001a33,990000&text_color=00b3b3&title_color=ff1a1a&border_radius=15&hide_progress=true&layout=compact" />
 </div>
+
+<!--Style for the whole page-->
+
+<style>
+    .Project_container {
+        display: grid;
+        grid-template-columns: 1fr 5px 1fr;
+        align-items: center;
+    }
+
+    .Project_card {
+        aspect-ratio: 16 / 9;
+        border: 2px solid transparent;
+        border-radius: 30px;
+        overflow: hidden;
+
+        a {
+            height: 100%;
+        }
+    }
+
+    .Card_holder {
+        padding: 20px;
+    }
+
+    .line {
+        background: white;
+        height: 100%;
+    }
+
+    .Project_separator {
+        width: 100%;
+        height: 5px;
+        background: white;
+    }
+</style>
