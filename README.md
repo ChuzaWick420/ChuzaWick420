@@ -11,13 +11,13 @@
 
 <div align="center">
     <!--C-->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width=64px />
+    <img src="./assets/C_Logo.png" width=64px />
     <!--C++-->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" width=64px />
+    <img src="./assets/Cpp_Logo.png" width=64px />
     <!--Python-->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" width=64px />
+    <img src="./assets/Python_Logo.png" width=64px />
     <!--JavaScript-->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png" width=64px />
+    <img src="./assets/JS_Logo.png" width=64px />
     <!--LaTeX-->
     <img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" width=64px />
     <!--Typst-->
@@ -28,13 +28,13 @@
 
 <div align="center">
     <!--Nvim-->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1280px-Neovim-mark.svg.png" width=64px />
+    <img src="./assets/NeoVim_Logo.png" width=64px />
     <!--Obsidian-->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png" width=64px />
+    <img src="./assets/Obsidian_Logo.png" width=64px />
     <!--Git-->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1280px-Git_icon.svg.png" width=64px />
+    <img src="./assets/Git_Logo.png" width=64px />
     <!--SFML-->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/250px-SFML_Logo.svg.png" width=64px />
+    <img src="./assets/SFML_Logo.png" width=64px />
     <!--Pygame-->
     <img src="https://user-images.githubusercontent.com/65417594/131365679-e3634a67-4054-4b66-a8f3-4f48533b424a.png" height=64px />
 </div>
