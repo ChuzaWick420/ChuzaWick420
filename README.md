@@ -22,10 +22,6 @@
     <img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" width=64px />
     <!--Typst-->
     <img src="https://avatars.githubusercontent.com/u/67595261?v=4" width=64px />
-    <!--SFML-->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/250px-SFML_Logo.svg.png" width=64px />
-    <!--Pygame-->
-    <img src="https://user-images.githubusercontent.com/65417594/131365679-e3634a67-4054-4b66-a8f3-4f48533b424a.png" height=64px />
 </div>
 
 ### Tools
@@ -37,6 +33,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png" width=64px />
     <!--Git-->
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1280px-Git_icon.svg.png" width=64px />
+    <!--SFML-->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/250px-SFML_Logo.svg.png" width=64px />
+    <!--Pygame-->
+    <img src="https://user-images.githubusercontent.com/65417594/131365679-e3634a67-4054-4b66-a8f3-4f48533b424a.png" height=64px />
 </div>
 
 ## Projects
@@ -64,6 +64,11 @@
     <img src="https://raw.githubusercontent.com/ChuzaWick420/rayTracing/refs/heads/master/imgs/img_1.png">
 </a>
 
+## Interests
+
+- Mathematics
+- Computer Graphics
+- Systems
 
 ## Socials
 
