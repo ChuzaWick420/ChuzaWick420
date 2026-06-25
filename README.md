@@ -90,7 +90,7 @@
                 </a>
                 <!--Linked in-->
                 <a href="https://www.linkedin.com/in/chuzawick420/" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height=32px />
+                    <img src="./assets/LinkedIn_Logo.png" height=32px />
                 </a>
             </div>
         </td>
@@ -116,11 +116,11 @@
             <div align="center">
                 <!--Instagram-->
                 <a href="https://www.instagram.com/chuzawick420/" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height=32px />
+                    <img src="./assets/Instagram_logo.svg" height=32px />
                 </a>
                 <!--FaceBook-->
                 <a href="https://www.facebook.com/profile.php?id=100087807815637" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" height=32px />
+                    <img src="./assets/Facebook_Logo.png" height=32px />
                 </a>
             </div>
         </td>
