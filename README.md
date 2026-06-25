@@ -1,7 +1,7 @@
 # About me
 
 <div align="center">
-    <p>Computer Science student with experience building software projects in <code>Python</code> and <code>C++</code>, including web publishing automation, game development, and multithreaded graphics programming. Strong foundation in software processes, architecture, design patterns, documentation, algorithms, data structures, version control and mathematics.</p>
+    <p>Computer Science student experienced in building software projects in <code>Python</code> and <code>C++</code>, including web publishing automation, game development, and multithreaded graphics programming. Strong foundation in software processes, architecture, design patterns, documentation, algorithms, data structures, version control and mathematics.</p>
     <img align="center" src="https://komarev.com/ghpvc/?username=ChuzaWick420&color=fe1155" />
 </div>
 
